@@ -39,12 +39,12 @@ This process continues for the entire string and is hence printed.
 
 
 > Letters   
-A	. _  
+A &emsp; . _  
 B	_ . . .   
 C	_ . _ .    
 D	_ . .    
 E	.     
-F	. . _ .    	
+F	. . _ .      	
 G	_ _ .    
 H	. . . .    
 I	. .    
