@@ -22,15 +22,15 @@ You can install the all requirements for running the code properly from **requir
 > Alphabets, Numbers and Special Characters with their Morse Code are stored in a dictionary "morse".
 
 > If the User selects to Encrypt Normal Text into Morse Code:  
-    User inputted string is firstly converted into Uppercase.   
-    Each character is compared to the keys in the dictionary "morse" and hence replaced by it's value in the dictionary or '/' is added in place of space.   
-    This is then added into the void array "morse_word".   
-    This process continues for the entire string and is hence printed.
+    - User inputted string is firstly converted into Uppercase.   
+    - Each character is compared to the keys in the dictionary "morse" and hence replaced by it's value in the dictionary or '/' is added in place of space.   
+    - This is then added into the void array "morse_word".   
+    - This process continues for the entire string and is hence printed.
 
 > If the User selects to Decrypt Morse Code to Normal Text:  
-    Two void arrays are taken as "morse_word" and "morse_letter".   
-    The whole array of dots and dashes is calculated and entered inside the "morse_letter". On encountering a space, the letter is changed and hence using the key-value pair from the dictionary and hence the english alphabet is added to the "morse_word" and the "morse_letter" is reset to void array for the next alphabet. On the other hand, if '/' is encountered, a space is added into the "morse_word".   
-    This process continues for the entire string and is hence printed.
+    - Two void arrays are taken as "morse_word" and "morse_letter".   
+    - The whole array of dots and dashes is calculated and entered inside the "morse_letter". On encountering a space, the letter is changed and hence using the key-value pair from the dictionary and hence the english alphabet is added to the "morse_word" and the "morse_letter" is reset to void array for the next alphabet. On the other hand, if '/' is encountered, a space is added into the "morse_word".   
+    - This process continues for the entire string and is hence printed.
 
 > At the end, the output is automatically copied on the clipboard.
 
