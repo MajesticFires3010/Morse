@@ -38,7 +38,7 @@ This process continues for the entire string and is hence printed.
 ### Morse Code Conversion :
 
 > Letters   
-A	. _	 	
+A	. _  
 B	_ . . .	
 C	_ . _ .	
 D	_ . .	 	
