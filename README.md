@@ -40,63 +40,63 @@ This process continues for the entire string and is hence printed.
 
 > Letters   
 A &emsp; . _  
-B	_ . . .   
-C	_ . _ .    
-D	_ . .    
-E	.     
-F	. . _ .      	
-G	_ _ .    
-H	. . . .    
-I	. .    
-J	. _ _ _     
-K	_ . _    
-L	. _ . .    
-M	_ _    
-N	_ .   
-O	_ _ _   
-P	. _ _ .    
-Q	_ _ . _   
-R	. _ .    
-S	. . .     
-T	_     
-U	. . _    
-V	. . . _     
-W	. _ _     
-X	_ . . _	    
-Y	_ . _ _    
-Z	_ _ . .    
+B &emsp; _ . . .   
+C &emsp; _ . _ .    
+D &emsp; _ . .    
+E &emsp; .     
+F &emsp; . . _ .      	
+G &emsp; _ _ .    
+H &emsp; . . . .    
+I &emsp; . .    
+J &emsp; . _ _ _     
+K &emsp; _ . _    
+L &emsp; . _ . .    
+M &emsp; _ _    
+N &emsp; _ .   
+O &emsp; _ _ _   
+P &emsp; . _ _ .    
+Q &emsp; _ _ . _   
+R &emsp; . _ .    
+S &emsp; . . .     
+T &emsp; _     
+U &emsp; . . _    
+V &emsp; . . . _     
+W &emsp; . _ _     
+X &emsp; _ . . _	    
+Y &emsp; _ . _ _    
+Z &emsp; _ _ . .    
 
  	 	 	 			 
 > Numbers
-1	. _ _ _ _	 	
-2	. . _ _ _	 	
-3	. . . _ _	 	
-4	. . . . _	 	
-5	. . . . .	 	
-6	_ . . . .	 
-7	_ _ . . .	 
-8	_ _ _ . .	 
-9	_ _ _ _ .	 
-0	_ _ _ _ _
+1 &emsp; . _ _ _ _   
+2 &emsp; . . _ _ _   
+3 &emsp; . . . _ _   
+4 &emsp; . . . . _   
+5 &emsp; . . . . .    
+6 &emsp; _ . . . .    
+7 &emsp; _ _ . . .    
+8 &emsp; _ _ _ . .     
+9 &emsp; _ _ _ _ .      
+0 &emsp; _ _ _ _ _     
 
 > Special Characters
-.	.-.-.-   
-,	--..--   	
-?	..--..   	
-'	.----.  	
-!	-.-.--  	
-/	-..-.	  	
-(	-.--.	  	
-)	-.--.-  	
-&	.-...	  	
-:	---...     
-;	-.-.-.  
-=	-...-  
-+	.-.-.  
--	-....-  
-_	..--.-  
-"	.-..-.  
-$	...-..-  
-@	.--.-.  
-¿	..-.-	  	
-¡	--...-  
+. &emsp; .-.-.-   
+, &emsp; --..--     
+? &emsp; ..--..    
+' &emsp; .----.    
+! &emsp; -.-.--     
+/ &emsp; -..-.     
+( &emsp; -.--.     
+) &emsp; -.--.-    
+& &emsp; .-...     
+: &emsp; ---...    
+; &emsp; -.-.-.  
+= &emsp; -...-  
++ &emsp; .-.-.  
+- &emsp; -....-  
+_ &emsp; ..--.-  
+" &emsp; .-..-.  
+$ &emsp; ...-..-  
+@ &emsp; .--.-.  
+¿ &emsp; ..-.-      	
+¡ &emsp; --...-    
